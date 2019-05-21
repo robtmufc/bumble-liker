@@ -1,0 +1,1 @@
+Paste the contents of bumble.js into a developer console on the main page of bumble after you've logged in and press enter.
